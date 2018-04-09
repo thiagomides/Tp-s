@@ -1,0 +1,5 @@
+Para rodar o código do Cliente:
+-digite no terminal "source rodarClient.sh 'endereço' 'porta'(opcional: caso esse parâmetro seja vazio o cliente considerará a porta 80)
+
+Para rodar o código do Servidor:
+-digite no terminal "source rodarServer.sh 'pasta_de_hospedagem' 'porta'
